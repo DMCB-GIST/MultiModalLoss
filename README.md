@@ -9,17 +9,21 @@ This repository contains the code and the synthetic data to reproduce the result
 ```{r}
 MultiModalLoss(num_classes, num_modalities, proxies_per_class=20, gamma=0.1)
 ```
-Parameters:
+**Parameters:**
 * **num_classes:** The number of classes.
 * **num_modalities:** The number of modalities.
 * **proxies_per_class:** The number of proxies per class. The papaer uses 20.
 * **gamma:** Scaling factor.
 
 
+
+
 # Prerequisites
 Python (3.7.9)
 PyTorch (1.9.0)
 pytorch_metric_learning (0.9.99)
+
+
 
 # Citation
 If you find the MultiModal Loss is userful, please cite the above paper:
