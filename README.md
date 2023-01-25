@@ -3,7 +3,7 @@
 Implementation of XXXX 2023 paper [Deep Metric Loss for Multimodal Learning](https://github.com/idstcv/SoftTriple).
 
 
-<img width="40%" src="https://user-images.githubusercontent.com/37695581/214497492-51ae08b2-7407-4731-88c1-aea138c52473.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/37695581/214497492-51ae08b2-7407-4731-88c1-aea138c52473.png"/>
 
 This repository contains the code and the synthetic data to reproduce the result from the paper:
 
