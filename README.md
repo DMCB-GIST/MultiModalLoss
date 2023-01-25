@@ -19,9 +19,9 @@ MultiModalLoss(num_classes, num_modalities, proxies_per_class=20, gamma=0.1)
 
 
 ## Prerequisites
-Python (3.7.9)
-PyTorch (1.9.0)
-pytorch_metric_learning (0.9.99)
+* Python (3.7.9)
+* PyTorch (1.9.0)
+* pytorch_metric_learning (0.9.99)
 
 
 ## Acknowledgments
