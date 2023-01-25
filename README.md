@@ -1,6 +1,6 @@
 # Deep Metric Loss for Multimodal Learning
 
-Implementation of XXXX 2023 paper Proxy Anchor Loss for MultiModal loss.
+Implementation of XXXX 2023 paper [Deep Metric Loss for Multimodal Learning](https://github.com/idstcv/SoftTriple).
 
 This repository contains the code and the synthetic data to reproduce the result from the paper:
 
