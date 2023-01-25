@@ -25,7 +25,7 @@ pytorch_metric_learning (0.9.99)
 
 
 # Acknowledgments
-This code is inspired by [SoftTriple Loss](https://github.com/idstcv/SoftTriple), [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
+This code is inspired by [SoftTriple Loss](https://github.com/idstcv/SoftTriple) and [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
 # Citation
 If you find the MultiModal Loss is userful, please cite the above paper:
