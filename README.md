@@ -18,16 +18,16 @@ MultiModalLoss(num_classes, num_modalities, proxies_per_class=20, gamma=0.1)
 
 
 
-# Prerequisites
+## Prerequisites
 Python (3.7.9)
 PyTorch (1.9.0)
 pytorch_metric_learning (0.9.99)
 
 
-# Acknowledgments
+## Acknowledgments
 This code is inspired by [SoftTriple Loss](https://github.com/idstcv/SoftTriple) and [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
-# Citation
+## Citation
 If you find the MultiModal Loss is userful, please cite the above paper:
 ```{r}
 @article{moon2022moma,
