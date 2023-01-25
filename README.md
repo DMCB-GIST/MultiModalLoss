@@ -2,7 +2,7 @@
 
 Deep Metric Loss for Multimodal Learning
 
-<img width="80%" src="https://github.com/SehwanMoon/MultiModalLoss/files/10496750/FIG1-eps-converted-to.pdf"/>
+<img width="80%" src="https://user-images.githubusercontent.com/37695581/214497492-51ae08b2-7407-4731-88c1-aea138c52473.png"/>
 
 This repository contains the code and the synthetic data to reproduce the result from the paper:
 
