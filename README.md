@@ -7,7 +7,7 @@ Implementation of XXXX 2023 paper [Deep Metric Loss for Multimodal Learning](htt
 
 This repository contains the code and the synthetic data to reproduce the result from the paper:
 
-
+## MultiModal Loss
 ```{r}
 MultiModalLoss(num_classes, num_modalities, proxies_per_class=20, gamma=0.1)
 ```
