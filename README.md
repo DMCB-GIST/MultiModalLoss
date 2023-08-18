@@ -1,6 +1,6 @@
 # Deep Metric Loss for Multimodal Learning
 
-Implementation of XXXX 2023 paper [Deep Metric Loss for Multimodal Learning](https://github.com/idstcv/SoftTriple).
+Implementation of XXXX 2023 paper [Deep Metric Loss for Multimodal Learning]().
 
 
 <img width="50%" src="https://user-images.githubusercontent.com/37695581/214497492-51ae08b2-7407-4731-88c1-aea138c52473.png"/>
