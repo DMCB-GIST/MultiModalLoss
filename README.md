@@ -32,14 +32,6 @@ This code is inspired by [SoftTriple Loss](https://github.com/idstcv/SoftTriple)
 ## Citation
 If you find the MultiModal Loss is userful, please cite the above paper:
 ```{r}
-@article{moon2022moma,
-  title={MOMA: a multi-task attention learning algorithm for multi-omics data interpretation and classification},
-  author={Moon, Sehwan and Lee, Hyunju},
-  journal={Bioinformatics},
-  volume={38},
-  number={8},
-  pages={2287--2296},
-  year={2022},
-  publisher={Oxford University Press}
+@article{
 }
 ```
